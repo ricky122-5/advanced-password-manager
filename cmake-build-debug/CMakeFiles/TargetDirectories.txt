@@ -1,0 +1,5 @@
+C:/Users/Rikki/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/passwordManager.dir
+C:/Users/Rikki/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rikki/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Rikki/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/passwordManager_autogen_timestamp_deps.dir
+C:/Users/Rikki/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/passwordManager_autogen.dir
