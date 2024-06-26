@@ -8,9 +8,9 @@ Please note: This project is intended for educational purposes and personal use 
 - Secure Password Storage: All passwords are encrypted using RSA encryption for maximum security.
 
 - Fast Positive Hash Algorithm: Ensures data integrity and quick password verification.
-- 
+  
 - User-Friendly Interface: Built with Qt, the application offers an intuitive and easy-to-use interface.
-- 
+  
 - Cross-Platform Support: Runs on multiple operating systems including Windows, macOS, and Linux.
 <h3>Prerequisites</h3>
 Qt Framework: Ensure that Qt is installed on your system. You can download it from Qt's official website.
