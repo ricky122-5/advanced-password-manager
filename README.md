@@ -15,11 +15,13 @@ Qt Framework: Ensure that Qt is installed on your system. You can download it fr
 C++ Compiler: A compatible C++ compiler is required to build the application. Popular choices include GCC (for Linux) and MSVC (for Windows).
 <h3>Installation</h3>
 Clone the Repository:
+
 ```
 git clone https://github.com/yourusername/advanced-password-manager.git
 cd advanced-password-manager
 ```
 Build the Application:
+
 ```
 mkdir build
 cd build
