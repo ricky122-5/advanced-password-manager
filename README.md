@@ -11,7 +11,7 @@ User-Friendly Interface: Built with Qt, the application offers an intuitive and 
 Cross-Platform Support: Runs on multiple operating systems including Windows, macOS, and Linux.
 Customizable Settings: Allows users to configure various settings to meet their specific needs.
 <h3>Prerequisites</h3>
-Qt Framework: Ensure that Qt is installed on your system. You can download it from Qt's official website.
+Qt Framework: Ensure that Qt is installed on your system. You can download it from Qt's official website.\n
 C++ Compiler: A compatible C++ compiler is required to build the application. Popular choices include GCC (for Linux) and MSVC (for Windows).
 <h3>Installation</h3>
 Clone the Repository:
