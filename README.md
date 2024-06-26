@@ -17,7 +17,7 @@ C++ Compiler: A compatible C++ compiler is required to build the application. Po
 Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/advanced-password-manager.git
+git clone https://github.com/ricky122-5/advanced-password-manager.git
 cd advanced-password-manager
 ```
 Build the Application:
